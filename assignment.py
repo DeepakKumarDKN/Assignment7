@@ -216,7 +216,7 @@
 #         case _:
                 # print('Sunday')
 
-# I neuron Solutioin
+# I neuron Solution
 
 s1 = input('Whats Your Favourite Color:')
 l1 = ['yellow','blue','orange','white','black','red']
